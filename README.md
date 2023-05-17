@@ -1,4 +1,4 @@
-# Data Science Exercises
+# Data Example Projects
  Some exercise projects for machine learning and data science
  
 # Projects here:
