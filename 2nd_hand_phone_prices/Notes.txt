@@ -1,0 +1,27 @@
+normalization factor: 67.91
+
+# Notes
+
+### Distibutions
+* Nice distribution of prices(check if its poisson or gauss or else) -CHECK
+    # the median of the used is 296 +- 40
+    # the median of the new is 355 +- 46
+
+* Battery distribution - 80% b/w 1700 and 4100 mAh -CHECK
+* Used price vs year - some trend -CHECK (2 plots)
+* Ram vs year - maybe something there -CHECK
+* Double plot for year distribution (with hue for has or has not 5G)
+* Days used -CHECK -phone loses 5% of its value per year
+
+### Functional correlations
+* Old vs. New price - good linear correlation
+* Rear_camera_MP vs Price - maybe something there
+* weight vs year - check -16% increase in 3 years
+
+* Screen size vs battery - maybe something there
+* Screen size vs weight - maybe something there
+* Ram vs price - appears to increase on average
+
+### Other
+
+* Battery vs used price has some funny splitting - check battery vs used price scatters, with hues -CHECK -SHOW

@@ -1,0 +1,22 @@
+normalization factor: 67.91
+
+# Notes
+
+### Distibution of prices
+* Nice distribution (check if its poisson or gauss or else)
+* Battery distribution
+* Used price vs year - some trend
+* Ram vs year - maybe something there
+* Double plot for year distribution (with hue for has or has not 5G)
+* Days used 
+
+### Functional correlations
+* Old vs. New price - good linear correlation
+* Rear_camera_MP vs Price - maybe something there
+* Screen size vs battery - maybe something there
+* Screen size vs weight - maybe something there
+* Ram vs price - appears to increase on average
+
+### Other
+
+* Battery vs used price has some funny splitting - check battery vs used price scatters, with hues -CHECK -SHOW
