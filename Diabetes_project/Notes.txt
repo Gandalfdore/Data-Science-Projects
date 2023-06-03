@@ -1,0 +1,37 @@
+#Notes on the diabetes project
+
+## Dataset
+
+* No NaN values 
+* All values are float numbers
+* There could be some 0 values at Insuling, Skin Thickness, Blood Pressure, BMI, Glucose - HAS TO BE CLEANED
+
+## Analysis
+
+* Insulin vs Glucose - some papercone dependance - NOH - c
+* BMI vs Skin Thickness - some spread linear dependance - INT -c
+* Glucose and Insulin and BMI vs Outcome - as bar plots -c
+
+* Use statistical significance tests for: -c
+    * Pregnancies vs Outcome
+    * Glucose vs Outcome
+    * BMI vs Outcome
+    * Age vs Outcome
+    * Pedigree Function vs Outcome
+
+* Check hued histograms of:
+    * Pregnancies
+    * Glucose
+    * DiabetesPedigreeFunction -maybe
+    * Age
+    * BMI - mark the 25< BMI zone (healthy)
+    
+* Obviously one gets less cancer when one has:
+    * Less BMI
+    * Less Glucose
+    
+    
+*The dataset doesn't say if data refers to type 1 or type 2 diabetes, however if one looks at the insulin vs glucose levels, it is visible that diabetic people there have mostly too high insuling levels, thus its likely that the dat acontaons much more type 2 diabetes patients.*
+
+Insulin [pmol/L]
+Glucose [mg/dL]
