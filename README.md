@@ -3,6 +3,7 @@
  
 # Projects here:
 
+#### * Classificator for different apparel items (shirt, shoes, bags, etc.) from Zelando's catalogue /CNN/
 #### * Machine learning model to predict the likelihood of developing diabetes + data insights /XGBoost/
 #### * Classification of "Vinho Verde" wines by qualty with anlytics and ML model /SVM/
 #### * Analysis and Modelling on prices and parameters of 2nd hand phones on the indian market /Regressions/
