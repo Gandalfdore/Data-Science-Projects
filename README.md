@@ -3,6 +3,7 @@
  
 # Projects here:
 
+#### * Classificator for Brain Tumors detection using VGG-16 pretrained weights /CNN/
 #### * Classificator for different apparel items (shirt, shoes, bags, etc.) from Zelando's catalogue /CNN/
 #### * Machine learning model to predict the likelihood of developing diabetes + data insights /XGBoost/
 #### * Classification of "Vinho Verde" wines by qualty with anlytics and ML model /SVM/
